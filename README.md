@@ -1,3 +1,4 @@
 # ImpactAssessment
 
-Run code using command 'gradle build'
+cd into directory 'ImpactA'
+Run tests using command 'gradle build'
